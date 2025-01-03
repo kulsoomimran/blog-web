@@ -21,7 +21,7 @@ const About = () => {
         <div className="mb-10">
           <h4 className="text-2xl font-semibold text-blue-700 mb-4">What We Offer</h4>
           <ul className="list-disc list-inside text-lg sm:text-xl text-gray-700 space-y-3">
-            <li><strong>Diverse Topics:</strong> Whether you're a tech enthusiast, a lifestyle lover, or someone looking for the latest trends, we&apos;ve got something for everyone.</li>
+            <li><strong>Diverse Topics:</strong> Whether you&apos;re a tech enthusiast, a lifestyle lover, or someone looking for the latest trends, we&apos;ve got something for everyone.</li>
             <li><strong>Expert Insights:</strong> Our blogs are written by passionate individuals who are experts in their fields, ensuring credibility and value in every post.</li>
             <li><strong>Engaging Community:</strong> We encourage dialogue and discussions, making this space not just about reading but also about sharing ideas and perspectives.</li>
           </ul>
